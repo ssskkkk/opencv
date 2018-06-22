@@ -1,2 +1,2 @@
-# opencv
-opencv
+# opencvでカメラからキャプチャーする
+pythonのopencvをつかってカメラから動画を取り込むコード
